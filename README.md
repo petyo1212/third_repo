@@ -9,5 +9,6 @@ git commit -m "message"
 4. connect local to github
 git remote add origin https://github.com/petyo1212/third_repo.git
 git remote -v - check the repo 
-4. Push 
+5. Push 
 git push origin main
+Check versions of the file
